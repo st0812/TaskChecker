@@ -1,0 +1,18 @@
+﻿reference:参考文献リスト
+
+@misc{»WPF学習用ド64:online,
+author = {},
+title = {» WPF 学習用ドキュメント作りました},
+howpublished = {\url{http://kisuke0303.sakura.ne.jp/blog/?p=340}},
+month = {},
+year = {},
+note = {(Accessed on 08/13/2020)}
+}
+@misc{C高速にフォアグ16:online,
+author = {},
+title = {C\# 高速にフォアグラウンドのプロセス名を取得する - 気まま研究所ブログ},
+howpublished = {\url{https://aonasuzutsuki.hatenablog.jp/entry/2019/08/28/112700}},
+month = {},
+year = {},
+note = {(Accessed on 10/10/2020)}
+}
